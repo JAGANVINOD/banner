@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url(https://wallpapercg.com/media/ts_2x/9083.webp);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+
+}
